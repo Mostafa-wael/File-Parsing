@@ -1,7 +1,3 @@
-# might help :
-# https://www.javatpoint.com/perl-do-while-loop
-#https://www.geeksforgeeks.org/hello-world-program-in-perl/ scroll down !!
-# To run the program : write "perl FILENAME" on the cmd
 # Modules used 
 use strict; 
 use warnings; 
